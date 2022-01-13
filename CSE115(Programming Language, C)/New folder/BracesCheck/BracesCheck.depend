@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1583768978 source:g:\roudro\program\c\new folder\bracescheck\main.cpp
+	<stdio.h>
+	<string.h>
+
+1582979845 g:\roudro\program\c\new folder\bracescheck\stack.h
+	"Stack.cpp"
+
+1582979810 source:g:\roudro\program\c\new folder\bracescheck\stack.cpp
+	"Stack.h"
+
+1582979810 g:\roudro\program\c\new folder\bracescheck\stack.cpp
+	"Stack.h"
+
